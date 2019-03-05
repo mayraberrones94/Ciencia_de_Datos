@@ -10,3 +10,6 @@
 
 
 [Práctica 4](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%204.ipynb)
+
+
+[Práctica 5](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%205.ipynb)
