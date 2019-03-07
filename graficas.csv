@@ -1,4 +1,4 @@
-﻿modelo,Tamaño,Optimizador,Por_capa,Flattening,Training,Dev,Test
+modelo,Tamano,Optimizador,Por_capa,Flattening,Training,Dev,Test
 modelo_001,80x200,Adam,32 - 32,1 - 128,0.9919,0.9915,1
 modelo_002,80x200,Adam,32 - 64,1 - 128,0.9926,0.9932,0.995
 modelo_003,80x200,Adam,32 - 128,1 - 128,0.9931,0.9863,1
