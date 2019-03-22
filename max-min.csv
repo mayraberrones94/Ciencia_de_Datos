@@ -1,0 +1,102 @@
+Unnamed: 0,548
+id,911320502
+diagnosis,B
+radius_mean,17.85
+texture_mean,33.81
+perimeter_mean,114.6
+area_mean,992.1
+smoothness_mean,0.1634
+compactness_mean,0.2239
+concavity_mean,0.4108
+concave points_mean,0.08534
+symmetry_mean,0.2743
+fractal_dimension_mean,0.09575
+radius_se,0.8811
+texture_se,4.885
+perimeter_se,5.118
+area_se,77.11
+smoothness_se,0.02177
+compactness_se,0.1064
+concavity_se,0.396
+concave points_se,0.05279
+symmetry_se,0.06146
+fractal_dimension_se,0.02984
+radius_worst,19.82
+texture_worst,41.78
+perimeter_worst,127.1
+area_worst,1210.0
+smoothness_worst,0.2006
+compactness_worst,0.5849
+concavity_worst,1.252
+concave points_worst,0.175
+symmetry_worst,0.4228
+fractal_dimension_worst,0.1486
+Unnamed: 32,
+Unnamed: 0,536
+id,911296202
+diagnosis,M
+radius_mean,28.11
+texture_mean,39.28
+perimeter_mean,188.5
+area_mean,2501.0
+smoothness_mean,0.1447
+compactness_mean,0.3454
+concavity_mean,0.4268
+concave points_mean,0.2012
+symmetry_mean,0.304
+fractal_dimension_mean,0.09744
+radius_se,2.873
+texture_se,3.568
+perimeter_se,21.98
+area_se,542.2
+smoothness_se,0.03113
+compactness_se,0.1354
+concavity_se,0.1438
+concave points_se,0.0409
+symmetry_se,0.07895
+fractal_dimension_se,0.01284
+radius_worst,36.04
+texture_worst,49.54
+perimeter_worst,251.2
+area_worst,4254.0
+smoothness_worst,0.2226
+compactness_worst,1.058
+concavity_worst,1.105
+concave points_worst,0.29100000000000004
+symmetry_worst,0.6638
+fractal_dimension_worst,0.2075
+Unnamed: 32,
+Unnamed: 0,19
+id,8913
+diagnosis,B
+radius_mean,6.981
+texture_mean,9.71
+perimeter_mean,43.79
+area_mean,143.5
+smoothness_mean,0.06251
+compactness_mean,0.01938
+concavity_mean,0.0
+concave points_mean,0.0
+symmetry_mean,0.1167
+fractal_dimension_mean,0.05185
+radius_se,0.1115
+texture_se,0.3602
+perimeter_se,0.757
+area_se,6.8020000000000005
+smoothness_se,0.001713
+compactness_se,0.002252
+concavity_se,0.0
+concave points_se,0.0
+symmetry_se,0.009539
+fractal_dimension_se,0.0008948000000000002
+radius_worst,7.93
+texture_worst,12.02
+perimeter_worst,50.41
+area_worst,185.2
+smoothness_worst,0.07117000000000001
+compactness_worst,0.02729
+concavity_worst,0.0
+concave points_worst,0.0
+symmetry_worst,0.1652
+fractal_dimension_worst,0.05521
+Unnamed: 32,
