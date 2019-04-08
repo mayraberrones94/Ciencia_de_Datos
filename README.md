@@ -22,3 +22,6 @@
 
 
 [Práctica 8](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%208.ipynb)
+
+
+[Práctica 9](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%209.ipynb)
