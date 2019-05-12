@@ -31,3 +31,8 @@
 
 
 [Práctica 11](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%2011.ipynb)
+
+
+[Práctica 12](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%2012.ipynb)
+
+
