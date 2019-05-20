@@ -36,6 +36,6 @@
 [Práctica 12](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%2012.ipynb)
 
 
-[Práctica 13](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%2013.ipynb)
+[Práctica 13](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%2013.ipynb) [pdf](https://github.com/mayraberrones94/Ciencia_de_Datos/blob/master/Pr%C3%A1ctica%2013.pdf)
 
 
